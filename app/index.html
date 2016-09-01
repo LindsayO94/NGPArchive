@@ -7,13 +7,22 @@
 </head>
 <body ng-app="NGPArchive" ng-controller="archiveController as archive">
 
-	<div class="ngp-title">NGP Archive</div>
-	<a href={{ngp.link}} ng-repeat="ngp in tournamentList">
-		<div class="ngp-entry">
+	<div class="title-container">
+		<div class="empty"></div>
+		<div class="title-text">NGP Archive</div>
+		<div class="toggle" ng-class="toggleButtonClass()" ng-click="toggleButton()">{{toggleText}}</div>
+	</div>
+	<div ng-repeat="ngp in tournamentList">
+		<div class="ngp-entry" ng-click="openPost(ngp)">
 			<div class="ngp-title">{{ngp.title}}</div>
 			<div class="ngp-text">{{ngp.date}}</div>
+			<a href={{ngp.link}}><div class="fb-link"></div></a>
 		</div>
-	</a>
+		<div class="ngp-post" ng-show=ngp.open>
+			<div class="spacer"></div>
+			<div class="ngp-post-text" ng-bind-html="ngp.post | trust"></div>
+		</div>
+	</div>
 
 <script src="bower_components/angular/angular.js"></script>
 <script src="bower_components/angular-route/angular-route.js"></script>
