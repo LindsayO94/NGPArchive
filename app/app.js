@@ -1202,7 +1202,13 @@ https://www.youtube.com/watch?v=fodtPNjze4I"
     		if ($scope.tournamentList[i].post)
     		{
     			$scope.tournamentList[i].post = $scope.tournamentList[i].post.replace(/(\$%)/g, '<br />');
-
+    			console.log($scope.tournamentList[i].post.indexOf("https:"));
+    			var linkdest = $scope.tournamentList[i].post.substring($scope.tournamentList[i].post.indexOf("https:"));
+    			linkdest = "<a href=\""+linkdest+"\" target=\"_blank\">https:";
+    			console.log(linkdest);
+    			$scope.tournamentList[i].post = $scope.tournamentList[i].post.replace("https:", linkdest);
+    			$scope.tournamentList[i].post = $scope.tournamentList[i].post + "</a>";
+    			console.log($scope.tournamentList[i].post);
     		}
     	}
     }
