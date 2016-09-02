@@ -1014,11 +1014,34 @@ We mashing this week friends:$%\
 https://www.youtube.com/watch?v=nN02ZxTRIqA"
 	},
 	{
-		title: "New Game Plus 41 - NO COLIN POST",
+		title: "New Game Plus 41",
 		date: "February 16th, 2016",
-		link: "#",
+		link: "https://www.facebook.com/groups/NewEnglandMelee/permalink/1135355416476986/",
 		open: false,
-		post: ":("
+		post: "\"We shall go on to the end. We shall fight in Dreamland, we shall fight on the Fountain and Stadium, we shall fight with growing confidence and growing strength in the air, we shall defend our stocks, whatever the cost may be. We shall fight on the Battlefield, we shall fight on the Final Destination, we shall fight on the platforms and on the stage, we shall fight on the Island; we shall never ragequit\" - Foxston Churchhill$%\
+---$%\
+It is time for NGP 41!$%\
+Quick reminder of new location:$%\
+Church on the Hill$%\
+140 Bowdoin St, Boston, MA 02108$%\
+The door is labeled 140 Bowdoin St, not the main entrance.$%\
+Visualization: http://imgur.com/ElAo0IK$%\
+Walk in and keep heading forward (up some stairs) until you find smashers. You will get to an office (possibly with someone working), look left, you found us.$%\
+Also reminder for parkers: Parking is left of the door and there should be a concierge there to assist but if not contact Eduardo.$%\
+Also reminder for ballers: Our main man Peter Fotis, bearded god of New England, in his ever vigilant mission to smash all over New England (and deny CT those sweet sweet Circuit points) unfortunately totaled his car returning fellow smashers to their homes. 3$ of all venue collected tonight will be going to him in efforts to get him back out there styling all over your faces in a fresh whip.$%\
+Little bit of question, little bit of answer:$%\
+There are rumblings of friendly setups being available all night, confirm or deny? Confirm, if we have 16 already for bracket.$%\
+How tight is the Head2Head setup? Real tight.$%\
+Can we order a bunch of food and just demolish it at the venue? Yes of course.$%\
+As stated the schedule is unchanged:$%\
+6:00pm Friendlies start$%\
+7:20pm Sign up ends.$%\
+7:30pm Bracket begins.$%\
+Unfortunately this evening I will not be able to attend. But fret not The Fantastic Mr. Vudoo will be prepared to take sign ups and get that bracket moving. Contact him, Shi, or Eduardo, and you should be able to secure your spot in bracket! (There is no cap but bracket starts at 7:30 so if late just tell them!)$%\
+Bring some setups yo, get some of that cheddar back, Tichinde will be there but with all these TVs, just think of the friendlies!$%\
+---$%\
+Take it easy friends,$%\
+https://www.youtube.com/watch?v=GcCNcgoyG_0"
 	},
 	{
 		title: "New Game Plus 40",
